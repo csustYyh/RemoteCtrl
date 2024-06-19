@@ -1,9 +1,0 @@
-﻿  pch.cpp
-  ClientController.cpp
-  ClientSocket.cpp
-  CWatchDialog.cpp
-  RemoteClient.cpp
-  RemoteClientDlg.cpp
-  StatusDlg.cpp
-  正在生成代码...
-  RemoteClient.vcxproj -> D:\07cpp_code\01study_project\study_project\RemoteCtrl\Debug\RemoteClient.exe
