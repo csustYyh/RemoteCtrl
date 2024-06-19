@@ -1,0 +1,113 @@
+﻿  ClientController.cpp
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\ClientSocket.h(44,1): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\ClientSocket.h(245,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\EdoyunTool.h(36,1): error C2665: “AfxMessageBox”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxwin.h(6549,12): message : 可能是“int AfxMessageBox(UINT,UINT,UINT)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxwin.h(6547,12): message : 或    “int AfxMessageBox(LPCTSTR,UINT,UINT)”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\EdoyunTool.h(36,1): message : 尝试匹配参数列表“(const char [10])”时
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\EdoyunTool.h(47,1): warning C4267: “参数”: 从“size_t”转换到“ULONG”，可能丢失数据
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\ClientController.cpp(50,28): warning C4244: “return”: 从“INT_PTR”转换到“int”，可能丢失数据
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\ClientController.cpp(209,40): error C2664: “FILE *fopen(const char *,const char *)”: 无法将参数 1 从“CString”转换为“const char *”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\ClientController.cpp(209,23): message : 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+D:\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(213,28): message : 参见“fopen”的声明
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\ClientController.cpp(219,68): error C2440: “类型强制转换”: 无法从“CString”转换为“LPCSTR”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\ClientController.cpp(219,49): message : 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\ClientController.cpp(219,108): error C2664: “bool CClientController::SendCommandPack(HWND,int,bool,BYTE *,size_t,WPARAM)”: 无法将参数 4 从“int”转换为“BYTE *”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\ClientController.cpp(219,91): message : 从整型强制转换为指针类型要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\ClientController.cpp(156,25): message : 参见“CClientController::SendCommandPack”的声明
+  CWatchDialog.cpp
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\ClientSocket.h(44,1): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\ClientSocket.h(245,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\EdoyunTool.h(36,1): error C2665: “AfxMessageBox”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxwin.h(6549,12): message : 可能是“int AfxMessageBox(UINT,UINT,UINT)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxwin.h(6547,12): message : 或    “int AfxMessageBox(LPCTSTR,UINT,UINT)”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\EdoyunTool.h(36,1): message : 尝试匹配参数列表“(const char [10])”时
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\EdoyunTool.h(47,1): warning C4267: “参数”: 从“size_t”转换到“ULONG”，可能丢失数据
+  RemoteClient.cpp
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\ClientSocket.h(44,1): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\ClientSocket.h(245,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\EdoyunTool.h(36,1): error C2665: “AfxMessageBox”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxwin.h(6549,12): message : 可能是“int AfxMessageBox(UINT,UINT,UINT)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxwin.h(6547,12): message : 或    “int AfxMessageBox(LPCTSTR,UINT,UINT)”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\EdoyunTool.h(36,1): message : 尝试匹配参数列表“(const char [10])”时
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\EdoyunTool.h(47,1): warning C4267: “参数”: 从“size_t”转换到“ULONG”，可能丢失数据
+  RemoteClientDlg.cpp
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\ClientSocket.h(44,1): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\ClientSocket.h(245,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\EdoyunTool.h(36,1): error C2665: “AfxMessageBox”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxwin.h(6549,12): message : 可能是“int AfxMessageBox(UINT,UINT,UINT)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxwin.h(6547,12): message : 或    “int AfxMessageBox(LPCTSTR,UINT,UINT)”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\EdoyunTool.h(36,1): message : 尝试匹配参数列表“(const char [10])”时
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\EdoyunTool.h(47,1): warning C4267: “参数”: 从“size_t”转换到“ULONG”，可能丢失数据
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(86,68): error C2664: “int atoi(const char *)”: 无法将参数 1 从“LPCTSTR”转换为“const char *”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(86,52): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(451,62): message : 参见“atoi”的声明
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(86,69): error C2660: “CClientController::UpdataAddress”: 函数不接受 1 个参数
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\ClientController.h(34,7): message : 参见“CClientController::UpdataAddress”的声明
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(104,73): error C2664: “int CWnd::MessageBoxW(LPCTSTR,LPCTSTR,UINT)”: 无法将参数 1 从“const char [15]”转换为“LPCTSTR”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(104,14): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxwin.h(2527,6): message : 参见“CWnd::MessageBoxW”的声明
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(111,73): error C2664: “int CWnd::MessageBoxW(LPCTSTR,LPCTSTR,UINT)”: 无法将参数 1 从“const char [15]”转换为“LPCTSTR”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(111,14): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxwin.h(2527,6): message : 参见“CWnd::MessageBoxW”的声明
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(115,73): error C2664: “int CWnd::MessageBoxW(LPCTSTR,LPCTSTR,UINT)”: 无法将参数 1 从“const char [15]”转换为“LPCTSTR”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(115,14): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxwin.h(2527,6): message : 参见“CWnd::MessageBoxW”的声明
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(133,68): error C2664: “HTREEITEM CTreeCtrl::InsertItem(LPCTSTR,HTREEITEM,HTREEITEM)”: 无法将参数 1 从“const _Elem *”转换为“LPCTSTR”
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(133,46): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxcmn.h(921,12): message : 参见“CTreeCtrl::InsertItem”的声明
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(134,39): error C2664: “HTREEITEM CTreeCtrl::InsertItem(LPCTSTR,HTREEITEM,HTREEITEM)”: 无法将参数 1 从“const char [1]”转换为“LPCTSTR”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(134,20): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxcmn.h(921,12): message : 参见“CTreeCtrl::InsertItem”的声明
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(151,74): error C2664: “HTREEITEM CTreeCtrl::InsertItem(LPCTSTR,HTREEITEM,HTREEITEM)”: 无法将参数 1 从“const char [256]”转换为“LPCTSTR”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(151,44): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxcmn.h(921,12): message : 参见“CTreeCtrl::InsertItem”的声明
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(152,40): error C2664: “HTREEITEM CTreeCtrl::InsertItem(LPCTSTR,HTREEITEM,HTREEITEM)”: 无法将参数 1 从“const char [1]”转换为“LPCTSTR”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(152,21): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxcmn.h(921,12): message : 参见“CTreeCtrl::InsertItem”的声明
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(158,40): error C2664: “int CListCtrl::InsertItem(int,LPCTSTR)”: 无法将参数 2 从“const char [256]”转换为“LPCTSTR”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(158,29): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxcmn.h(494,6): message : 参见“CListCtrl::InsertItem”的声明
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(546,110): error C2440: “类型强制转换”: 无法从“CString”转换为“LPCSTR”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(546,95): message : 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(546,131): error C2664: “bool CClientController::SendCommandPack(HWND,int,bool,BYTE *,size_t,WPARAM)”: 无法将参数 4 从“int”转换为“BYTE *”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(546,129): message : 从整型强制转换为指针类型要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\ClientController.h(52,7): message : 参见“CClientController::SendCommandPack”的声明
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(555,42): error C2664: “int CListCtrl::InsertItem(int,LPCTSTR)”: 无法将参数 2 从“char [256]”转换为“LPCTSTR”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(555,30): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxcmn.h(494,6): message : 参见“CListCtrl::InsertItem”的声明
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(736,2): error C2440: “<function-style-cast>”: 无法从“CString”转换为“LPCSTR”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(736,24): message : 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(757,108): error C2440: “类型强制转换”: 无法从“CString”转换为“LPCSTR”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(757,93): message : 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(757,129): error C2664: “bool CClientController::SendCommandPack(HWND,int,bool,BYTE *,size_t,WPARAM)”: 无法将参数 4 从“int”转换为“BYTE *”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(757,127): message : 从整型强制转换为指针类型要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\ClientController.h(52,7): message : 参见“CClientController::SendCommandPack”的声明
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(761,52): error C2665: “AfxMessageBox”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxwin.h(6549,12): message : 可能是“int AfxMessageBox(UINT,UINT,UINT)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxwin.h(6547,12): message : 或    “int AfxMessageBox(LPCTSTR,UINT,UINT)”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(761,52): message : 尝试匹配参数列表“(const char [23])”时
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(781,108): error C2440: “类型强制转换”: 无法从“CString”转换为“LPCSTR”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(781,93): message : 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(781,129): error C2664: “bool CClientController::SendCommandPack(HWND,int,bool,BYTE *,size_t,WPARAM)”: 无法将参数 4 从“int”转换为“BYTE *”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(781,127): message : 从整型强制转换为指针类型要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\ClientController.h(52,7): message : 参见“CClientController::SendCommandPack”的声明
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(784,52): error C2665: “AfxMessageBox”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxwin.h(6549,12): message : 可能是“int AfxMessageBox(UINT,UINT,UINT)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxwin.h(6547,12): message : 或    “int AfxMessageBox(LPCTSTR,UINT,UINT)”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(784,52): message : 尝试匹配参数列表“(const char [23])”时
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(885,68): error C2664: “int atoi(const char *)”: 无法将参数 1 从“LPCTSTR”转换为“const char *”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(885,52): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(451,62): message : 参见“atoi”的声明
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(885,69): error C2660: “CClientController::UpdataAddress”: 函数不接受 1 个参数
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\ClientController.h(34,7): message : 参见“CClientController::UpdataAddress”的声明
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(893,68): error C2664: “int atoi(const char *)”: 无法将参数 1 从“LPCTSTR”转换为“const char *”
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(893,52): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(451,62): message : 参见“atoi”的声明
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\RemoteClientDlg.cpp(893,69): error C2660: “CClientController::UpdataAddress”: 函数不接受 1 个参数
+C:\Users\Yyh\Desktop\Git\RemoteCtrl\RemoteClient\ClientController.h(34,7): message : 参见“CClientController::UpdataAddress”的声明
+  正在生成代码...
